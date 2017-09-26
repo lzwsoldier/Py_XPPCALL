@@ -155,3 +155,5 @@ or BibTeX:
       url = {https://github.com/iprokin/Py_XPPCALL}, 
       year = {2017} 
 }`
+
+Ilya Prokin and Youngmin Park are equal contributors to this project.
